@@ -22,6 +22,3 @@ const dbConnect = () => {
 //exportamos el dbConnect para que se pueda usar desde cualuqier lado
 module.exports = dbConnect;
 
-
-
-//mongo_URI : mongodb+srv://krzkraken:krakeninsane007@cluster0.go1na.mongodb.net/dbapi?retryWrites=true&w=majority
